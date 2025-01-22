@@ -1,1 +1,1 @@
-# HOR800
+# Will be displayed after the article is published
